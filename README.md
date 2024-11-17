@@ -65,26 +65,46 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/04/2024 | [Senior Full-stack developer \| Mobile](https://algojobs.io/jobs/2165051) | [Mendix](https://algojobs.io/company/mendix/) | N/A | Rotterdam (Hybrid) |
 | 11/03/2024 | [Intern Software Engineer - (x/f/m)](https://algojobs.io/jobs/2122867) | [Doctolib](https://algojobs.io/company/doctolib/) | N/A | Amsterdam, North Holland, Netherlands |
 | 10/31/2024 | [Fullstack Engineer](https://algojobs.io/jobs/2122672) | [Augmedix](https://algojobs.io/company/augmedix/) | N/A | Dhaka, Bangladesh |
+| 10/29/2024 | [Software Engineer, Frontend Accessibility (Developer Experience)](https://algojobs.io/jobs/2083997) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $149K - $149K | Remote - Canada |
 | 10/29/2024 | [Senior Full Stack Developer (Must: React.Js + Node.Js + Typescript)](https://algojobs.io/jobs/2085269) | [Santex](https://algojobs.io/company/santex/) | N/A | Argentina / Perú |
+| 10/28/2024 | [ReIgnite Career Returners Programme - Software Engineering](https://algojobs.io/jobs/2083570) | [FanDuel](https://algojobs.io/company/fanduel/) | N/A | Edinburgh / Hybrid |
+| 10/28/2024 | [Software Engineer](https://algojobs.io/jobs/2082047) | [Fintual](https://algojobs.io/company/fintual/) | N/A | América Latina (Hybrid) |
+| 10/28/2024 | [Full-stack Developer, Web & Mobile](https://algojobs.io/jobs/2081577) | [Springboard Collaborative](https://algojobs.io/company/springboard-collaborative/) | N/A | United States (Remote) |
 | 10/26/2024 | [Software Engineer II, Mobile & Web](https://algojobs.io/jobs/2075304) | [Flex](https://algojobs.io/company/flex/) | N/A | Remote (Latin America) |
 | 10/25/2024 | [Software Engineer II, Mobile & Web](https://algojobs.io/jobs/2067077) | [Flex](https://algojobs.io/company/flex/) | $179K - $194K | U.S. (Remote) |
+| 10/24/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2057020) | [FanDuel](https://algojobs.io/company/fanduel/) | $150K - $200K | Atlanta |
+| 10/24/2024 | [Senior Backend Engineer](https://algojobs.io/jobs/2057516) | [ Understood](https://algojobs.io/company/understood/) | $145K - $165K | New York, NY |
+| 10/24/2024 | [Junior Software Development Engineer - Frontend, Services (@Remote, Chile and Colombia)](https://algojobs.io/jobs/2056314) | [OfferUp](https://algojobs.io/company/offerup/) | N/A | Remote, Chile  |
+| 10/24/2024 | [Junior Software Development Engineer - Frontend, Services (@Remote, Chile and Colombia)](https://algojobs.io/jobs/2056311) | [OfferUp](https://algojobs.io/company/offerup/) | N/A | Remote, Chile and Colombia |
+| 10/24/2024 | [Senior Staff Software Engineer - Android](https://algojobs.io/jobs/2057201) | [ChargePoint](https://algojobs.io/company/chargepoint/) | $105K - $270K | Campbell, CA |
+| 10/23/2024 | [Senior Software Engineer (Mobile)](https://algojobs.io/jobs/2056990) | [Sisense](https://algojobs.io/company/sisense/) | N/A | Kyiv, Ukraine |
+| 10/23/2024 | [Software Engineer Intern](https://algojobs.io/jobs/2047611) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $50 - $50 | San Francisco, CA |
+| 10/23/2024 | [Full Stack Software Engineer - Catalyst](https://algojobs.io/jobs/2053979) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
+| 10/22/2024 | [Senior React Native Software Engineer](https://algojobs.io/jobs/2046456) | [Agile Six Applications](https://algojobs.io/company/agilesix/) | $141K - $148K | United States, Remote |
+| 10/21/2024 | [Software Engineer India Frontend -React](https://algojobs.io/jobs/2031422) | [SpotOn: Product](https://algojobs.io/company/spotonproduct/) | N/A | Bengaluru, India |
+| 10/21/2024 | [IN_Senior Associate _.NET Developer _ Emerging Technologies_ Advisory_ Bengaluru](https://algojobs.io/jobs/2034528) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
+| 10/17/2024 | [Software Engineering Intern - Master's](https://algojobs.io/jobs/2010060) | [PlayStation Global](https://algojobs.io/company/sonyinteractiveentertainmentglobal/) | $54 - $54 | United States, San Mateo, CA |
+| 10/17/2024 | [Software Engineer - React Native SDK (Portugal)](https://algojobs.io/jobs/2009187) | [Datadog](https://algojobs.io/company/datadog/) | N/A | Portugal, Remote |
+| 10/17/2024 | [Software Engineer - React Native SDK](https://algojobs.io/jobs/2009181) | [Datadog](https://algojobs.io/company/datadog/) | N/A | France, Remote; Spain, Remote; Germany, Remote |
+| 10/16/2024 | [Principal Software Developer](https://algojobs.io/jobs/2008826) | [Aptos LLC](https://algojobs.io/company/aptos/) | N/A | India - Bengaluru |
+| 10/16/2024 | [Sr. Software Engineer (Mobile Developer)](https://algojobs.io/jobs/2007810) | [Aera Technology](https://algojobs.io/company/aeratechnology/) | N/A | Pune, India (Hybrid) |
+| 10/14/2024 | [Senior Software Engineer, Platform](https://algojobs.io/jobs/1989133) | [Tapcart](https://algojobs.io/company/tapcart/) | $155K - $165K | Santa Monica, CA - Remote |
 | 10/14/2024 | [(USA) Senior, Software Engineer– Connected Assistance (Mobile Calling) Team](https://algojobs.io/jobs/1995896) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
 | 10/11/2024 | [(USA) Senior, Software Engineer - AllsparkCore](https://algojobs.io/jobs/1987761) | [Walmart](https://algojobs.io/company/walmart/) | $90K - $180K | Bentonville, AR, United States of America |
 | 10/11/2024 | [(USA) Senior, Software Engineer, Core team](https://algojobs.io/jobs/1987762) | [Walmart](https://algojobs.io/company/walmart/) | $90K - $180K | Bentonville, AR, United States of America |
 | 10/11/2024 | [Senior Software Engineer, Fullstack, Wallet - React Native](https://algojobs.io/jobs/1970904) | [Base.org Careers Page](https://algojobs.io/company/basejobs/) | $180K - $212K | USA (Remote) |
-| 10/11/2024 | [Lead React Native Mobile Developer](https://algojobs.io/jobs/1971830) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Santiago |
 | 10/10/2024 | [Software Engineer (Senior / Staff / Principal)](https://algojobs.io/jobs/1973313) | [Alan](https://algojobs.io/company/alan/) | N/A | Toronto |
 | 10/10/2024 | [Senior Software Engineer (Remote/Flexible)](https://algojobs.io/jobs/1976507) | [Insulet Corporation](https://algojobs.io/company/insulet/) | N/A | Mexico (Remote) |
+| 10/09/2024 | [Mobile Software Engineer](https://algojobs.io/jobs/1967319) | [Manulife](https://algojobs.io/company/manulife/) | N/A | Singapore |
 | 10/09/2024 | [Staff Software Engineer](https://algojobs.io/jobs/1951951) | [Tekion](https://algojobs.io/company/tekion/) | N/A | Chennai, India |
-| 10/03/2024 | [Software Engineer, UI Systems Team](https://algojobs.io/jobs/1905373) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $147K - $174K | USA (Remote) |
+| 10/08/2024 | [Principal, Software Engineer](https://algojobs.io/jobs/1959129) | [Walmart](https://algojobs.io/company/walmart/) | $110K - $220K | Bentonville, AR, United States of America |
 | 10/02/2024 | [Senior Software Engineer (d/f/m) - Full Stack](https://algojobs.io/jobs/1906874) | [Taxfix](https://algojobs.io/company/taxfix.com/) | N/A | Berlin |
 | 10/02/2024 | [Staff, Software Engineer](https://algojobs.io/jobs/1912041) | [Walmart](https://algojobs.io/company/walmart/) | $110K - $220K | (USA) AR BENTONVILLE Home Office ISD Office - DGTC, United States of America |
 | 10/01/2024 | [(USA) Software Engineer III - Mobile](https://algojobs.io/jobs/1912046) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA / Bentonville, AR |
 | 10/01/2024 | [Semi Senior Software Engineer](https://algojobs.io/jobs/1886837) | [Galileo Financial Technologies](https://algojobs.io/company/galileofinancialtechnologies/) | N/A | Ecuador |
 | 10/01/2024 | [Senior Software Engineer](https://algojobs.io/jobs/1886838) | [Galileo Financial Technologies](https://algojobs.io/company/galileofinancialtechnologies/) | N/A | Uruguay |
 | 09/30/2024 | [Frontend Engineer](https://algojobs.io/jobs/1887249) | [PayPay](https://algojobs.io/company/paypay/) | N/A | Remote |
-| 09/30/2024 | [Software Engineer](https://algojobs.io/jobs/1878778) | [PEL Pulse Ecosystems Pte Ltd.](https://algojobs.io/company/prudential/) | N/A | Phnom Penh, Cambodia |
-| 09/30/2024 | [React Developer](https://algojobs.io/jobs/1881171) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | N/A | Pune - Hinjewadi (Ascendas), India |
+| 09/30/2024 | [Software Engineer](https://algojobs.io/jobs/1878778) | [PHKL Prudential Hong Kong Limited](https://algojobs.io/company/prudential/) | N/A | Phnom Penh, Cambodia |
 | 09/24/2024 | [Staff Software Engineer (Fullstack Dev)](https://algojobs.io/jobs/1849363) | [Jobber](https://algojobs.io/company/jobber/) | N/A | Remote in Canada |
 | 09/24/2024 | [Software Engineer, Mobile (React Native)](https://algojobs.io/jobs/1851682) | [Alterra Mountain Company](https://algojobs.io/company/alterra/) | $127K - $184K | Denver, CO, United States of America |
 | 09/24/2024 | [(USA) Senior, Software Engineer - Fullstack Development](https://algojobs.io/jobs/1854714) | [Wal-Mart Stores East, LP](https://algojobs.io/company/walmart/) | $90K - $180K | Bentonville, AR, United States of America |
